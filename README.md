@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-GOIT First HW
+# goit-markup-hw-02
+GOIT Second HW
