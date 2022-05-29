@@ -1,0 +1,52 @@
+body {
+    font-family: 'roboto', 'Raleway', sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+.buttons-links:hover,
+.buttons-links:focus{
+    color: #2196F3;
+    cursor: pointer;
+}
+
+.head-buttons {
+    font-weight: 500;
+font-size: 14px;
+line-height: 0.8;
+letter-spacing: 0.02em;
+}
+
+.main-button{
+    background-color: #2F303A;
+}
+
+.affective-business {
+    color: #fff;
+}
+
+.zagolovok {
+    font-weight: 700;
+font-size: 36px;
+line-height: 0.8;
+letter-spacing: 0.03em;
+}
+
+.mini-zagolovok{
+    font-weight: 700;
+font-size: 14px;
+line-height: 0.8;
+letter-spacing: 0.03em;
+}
+
+p {
+    font-weight: 400;
+font-size: 14px;
+line-height: 0.8;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.contacts {
+    color: grey;
+}
