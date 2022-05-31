@@ -15,14 +15,17 @@ background: #FFFFFF;
 }
 
 .header-logo {
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
     font-family: 'Raleway';
-font-style: normal;
-font-weight: 700;
-font-size: 26px;
-line-height: 31px;
-letter-spacing: 0.03em;
-color:#2196F3;
-text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
 }
 
 li {
@@ -112,11 +115,17 @@ letter-spacing: 0.02em;
 }
 
 .logo-studio {
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    font-family: 'Raleway';
+    font-style: normal;
     font-weight: 700;
-font-size: 26px;
-line-height: 31px;
-letter-spacing: 0.03em;
-color: #000;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #000;
 }
 
 .main-button{
@@ -178,6 +187,7 @@ background: #2F303A;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
+    text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -194,6 +204,7 @@ color: #757575;
 
 .what-we-do{
     font-family: 'Roboto';
+    text-align: center;
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
@@ -205,6 +216,7 @@ color: #212121;
 .our-team{
     font-family: 'Roboto';
 font-style: normal;
+text-align: center;
 font-weight: 700;
 font-size: 36px;
 line-height: 42px;
@@ -214,12 +226,13 @@ color: #212121;
 
 .people-desc{
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 19px;
-letter-spacing: 0.03em;
-color: #757575;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
 
 .footer {
@@ -313,6 +326,19 @@ border-radius: 4px;
 cursor: pointer;
 }
 
+.footer-logo{
+width: 145px;
+height: 31px;
+left: 215px;
+top: 2157px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
 
 .buttons-links-portfolio:hover{
     background: #2196F3;
