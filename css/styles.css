@@ -193,13 +193,18 @@ background: #2F303A;
 }
 
 .top-desc {
+    width: 270px;
+    height: 75px;
+    left: 215px;
+    top: 800px;
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 24px;
-letter-spacing: 0.03em;
-color: #757575;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    
 }
 
 .what-we-do{
