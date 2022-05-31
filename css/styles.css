@@ -267,6 +267,16 @@ color: #212121;
 }
 
 .adress{
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1739px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
     color: #FFFFFF;
 }
 
@@ -288,8 +298,26 @@ color: #212121;
     color: grey;
 }
 
-.buttons-links-footer{
+.footer-mail{
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1769px;
     font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-phone{
+    width: 231px;
+height: 21px;
+left: 215px;
+top: 1799px;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
@@ -298,7 +326,8 @@ letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 }
 
-.buttons-links-footer:hover{
+.footer-mail:hover,
+.footer-phone:hover{
     color: #2196F3;
     cursor: pointer;    
 }
